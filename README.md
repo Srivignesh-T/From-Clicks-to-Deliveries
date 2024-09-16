@@ -16,7 +16,8 @@ We analyze clickstream data to understand customer preferences, enhance user exp
 * Item ID
 * Item Name
 * Click Count
-> [!NOTE] All data used here are randomly generated and simulated using the Python file 'clicker.py'
+> [!NOTE]
+>  All data used here are randomly generated and simulated using the Python file 'clicker.py'
 
 # Fleet Management and Logistics Optimization
 We monitor and analyze real-time telemetry data from our fleet of delivery trucks, utilizing IoT sensors installed in each vehicle. This data helps optimize routes, reduce fuel consumption, proactively address maintenance issues, and ensure the safety and reliability of our delivery operations. For 3 trucks in the fleet, the following data is collected near real-time (data is sent every 1 minute):
@@ -28,7 +29,8 @@ We monitor and analyze real-time telemetry data from our fleet of delivery truck
 * Fuel Consumption: Fuel usage over time
 * Vehicle Health and Maintenance: Brake status, Tire pressure, Transmission status
 * Environmental Conditions: Temperature, Humidity, Atmospheric Pressure
-> [!NOTE] All data used here are randomly generated and simulated using the Python file 'trucks.py'
+> [!NOTE]
+> All data used here are randomly generated and simulated using the Python file 'trucks.py'
 
 ---
 
